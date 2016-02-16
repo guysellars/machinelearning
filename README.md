@@ -1,2 +1,2 @@
 # machinelearning
-Udacity training material.
+Udacity machine learning training material.
